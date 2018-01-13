@@ -15,7 +15,9 @@ To show support for the project, you can do any (or many!) of the following:
 - [Donate via PayPal.](https://paypal.me/daylerees)
 - [Donate via Monzo.](https://monzo.me/daylerees)
 
-### Manual Installation
+### Easy Installation
+
+**Sorry, the easy installation is pending an issue submitted to Hyper, we'll get that back as soon as possible. For now, use the manual install.**
 
 Simply install the `rainglow` package within your Hyper package list and restart.
 
@@ -28,6 +30,23 @@ rainglow: 'bold-light',
 ```
 
 You might need to restart the editor after changing the theme, but probably not! Enjoy!
+
+### Manual Installation
+
+Clone the `rainglow/hyper` repository into `~/.hyper_plugins/local` and rename to 'rainglow'.
+
+Next add rainglow to your local plugins (`localPlugins: ['rainglow'],`) in settings and restart.
+
+Now add `rainglow: 'theme-name-here',` to the `config` section of your Hyper config, swapping out the theme name for the one that you want. For example:
+
+```
+rainglow: 'peacock',
+rainglow: 'warlock-contrast',
+rainglow: 'bold-light',
+```
+
+You might need to restart the editor after changing the theme, but probably not! Enjoy!
+
 
 ### Useful Information
 
