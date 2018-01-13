@@ -1,0 +1,26 @@
+{
+    "name": "rainglow",
+    "version": "1.5.0",
+    "description": "A collection of 320+ color themes for HyperJS.",
+    "license": "MIT",
+    "repository": "https://github.com/rainglow/hyper",
+    "author": {
+      "name": "Dayle Rees",
+      "email": "me@daylerees.com",
+      "url": "https://daylerees.com"
+    },
+    "files": [
+      "index.js"
+    ],
+    "keywords": [
+      "rainglow",
+      "dayle",
+      "rees",
+      "hyper",
+      "hyper-theme",
+      "terminal",
+      "term",
+      "theme",
+      "hyperterm"
+    ]
+}
